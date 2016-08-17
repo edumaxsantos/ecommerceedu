@@ -1,0 +1,5 @@
+iniciar virtual env:
+call venv/Scripts/activate.bat
+
+iniciar servidor:
+python manage.py runserver
